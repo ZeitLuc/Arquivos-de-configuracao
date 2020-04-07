@@ -1,8 +1,8 @@
-sw_volume: 69
+sw_volume: 59
 audio_device_state:1:mpd alsamixer-output
 state: play
-current: 129
-time: 310.579000
+current: 265
+time: 4.154000
 random: 0
 repeat: 0
 single: 0
@@ -329,5 +329,17 @@ playlist_begin
 315:Powerwolf/Blessed and Possessed/[2015] - Blessed and Possessed (2 CDs)/Disco 1/09 - Sacramental Sister.mp3
 316:Powerwolf/Blessed and Possessed/[2015] - Blessed and Possessed (2 CDs)/Disco 1/10 - All You Can Bleed.mp3
 317:Powerwolf/Blessed and Possessed/[2015] - Blessed and Possessed (2 CDs)/Disco 1/11 - Let There be Night.mp3
-318:Burzum/Burzum - Aske (1993)/01 - Burzum - Stemmen Fra Tårnet.mp3
+318:Megadeth/Rust in Peace/01 Holy Wars...The Punishment Due.mp3
+319:Megadeth/Rust in Peace/02 Hangar 18.mp3
+320:Megadeth/Rust in Peace/03 Take No Prisoners.mp3
+321:Megadeth/Rust in Peace/04 Five Magics.mp3
+322:Megadeth/Rust in Peace/05 Poison Was The Cure.mp3
+323:Megadeth/Rust in Peace/06 Lucretia.mp3
+324:Megadeth/Rust in Peace/07 Tornado Of Souls.mp3
+325:Megadeth/Rust in Peace/08 Dawn Patrol.mp3
+326:Megadeth/Rust in Peace/09 My Creation.mp3
+327:Megadeth/Rust in Peace/10 Rust In Peace...Polaris.mp3
+328:Megadeth/Rust in Peace/11 Rust In Peace...Polaris (Demo).mp3
+329:Megadeth/Rust in Peace/12 Holy Wars...The Punishment Due (D.mp3
+330:Megadeth/Rust in Peace/13 Take No Prisoners (Demo).mp3
 playlist_end

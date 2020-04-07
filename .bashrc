@@ -4,6 +4,11 @@
 export PATH=$PATH:$HOME/bin
 [[ $- != *i* ]] && return
 
+
+HISTSIZE= HISTFILESIZE= 
+
+shopt -s autocd
+
 colors() {
 	local fgc bgc vals seq0
 
@@ -114,7 +119,7 @@ alias grep='grep --colour=auto'
 alias egrep='egrep --colour=auto'
 alias fgrep='fgrep --colour=auto'
 alias g='grep'
-
+alias gm='cd ~/Documentos/MEGAsync13/'
 xhost +local:root > /dev/null 2>&1
 
 complete -cf sudo

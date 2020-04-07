@@ -1,8 +1,8 @@
-sw_volume: 61
+sw_volume: 75
 audio_device_state:1:mpd alsamixer-output
 state: play
-current: 266
-time: 70.325000
+current: 331
+time: 9.109000
 random: 0
 repeat: 0
 single: 0
@@ -342,4 +342,8 @@ playlist_begin
 328:Megadeth/Rust in Peace/11 Rust In Peace...Polaris (Demo).mp3
 329:Megadeth/Rust in Peace/12 Holy Wars...The Punishment Due (D.mp3
 330:Megadeth/Rust in Peace/13 Take No Prisoners (Demo).mp3
+331:Classicas/Erik Satie Trois Gymnopedies.mp3
+332:Classicas/Oblivion (Arr. for Orchestra).mp3
+333:Classicas/Tchaikovsky - Symphony No. 6 in B minor, Op. 74 'Pathétique', IV. Finale- Adagio lamentoso, Andante.mp3
+334:Classicas/Tchaikovsky - The seasons - june (barcarolle).mp3
 playlist_end

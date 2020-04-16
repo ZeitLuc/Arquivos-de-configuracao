@@ -1,8 +1,8 @@
-sw_volume: 75
+sw_volume: 100
 audio_device_state:1:mpd alsamixer-output
-state: play
-current: 331
-time: 9.109000
+state: pause
+current: 175
+time: 15.720000
 random: 0
 repeat: 0
 single: 0
@@ -346,4 +346,17 @@ playlist_begin
 332:Classicas/Oblivion (Arr. for Orchestra).mp3
 333:Classicas/Tchaikovsky - Symphony No. 6 in B minor, Op. 74 'Pathétique', IV. Finale- Adagio lamentoso, Andante.mp3
 334:Classicas/Tchaikovsky - The seasons - june (barcarolle).mp3
+335:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/01 Tudo que eu sempre sonhei.mp3
+336:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/02 O Amor Verdadeiro não tem Vista para o Mar.mp3
+337:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/03 1932 (C.P.).mp3
+338:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/04 Marinês.mp3
+339:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/05 Lição de Casa.mp3
+340:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/06 Quem me dera houvesse trem.mp3
+341:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/07 Marcelo ou Eu Traí o Rock.mp3
+342:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/08 Futebol de Óculos.mp3
+343:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/09 Sambinha Salgueiro.mp3
+344:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/10 O que dará o Salgueiro-.mp3
+345:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/11 Semana.mp3
+346:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/12 Todas as Canções são de Amor.mp3
+347:Pullovers/Pullovers - Tudo o que eu sempre sonhei (2009)/13 Tchau.mp3
 playlist_end
